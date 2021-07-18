@@ -1,2 +1,1 @@
-# python-me-ask
-# algorithms_in_c
+# algorithms in C
