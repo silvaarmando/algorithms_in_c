@@ -1,5 +1,5 @@
 <h1
   align="center"
 >
-  Algoritmos em C
+  Algorithms and Programming Logic in C
 </h1>
